@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-16T14:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302483195",
+        "building": "warehouse",
+        "building:colour": "white",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "roof:material": "concrete",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5678838,
+              23.0307691
+            ],
+            [
+              72.5679076,
+              23.0306232
+            ],
+            [
+              72.5679906,
+              23.0306347
+            ],
+            [
+              72.5679668,
+              23.0307805
+            ],
+            [
+              72.5678838,
+              23.0307691
+            ]
+          ]
+        ]
+      },
+      "id": "way/1302483195"
+    }
+  ]
+}
