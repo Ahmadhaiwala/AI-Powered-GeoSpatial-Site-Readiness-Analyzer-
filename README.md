@@ -398,4 +398,4 @@ System can:
 
 > “We built an AI-powered geospatial decision platform that combines multi-layer spatial data, dynamic scoring, and crowdsourced demand with explainable intelligence to recommend optimal locations for any business.”
 
----
+--
